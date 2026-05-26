@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Nexvy",
+  "description": "A premium social earning platform with a modern gaming UI, featuring tasks, lucky spins, and daily rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
